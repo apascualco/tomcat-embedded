@@ -34,8 +34,4 @@ class Embedded {
         tomcatEmbedded.addRole("admin", "user");
         tomcatEmbedded.addRole("user", "user");
     }
-
-
-
-
 }
